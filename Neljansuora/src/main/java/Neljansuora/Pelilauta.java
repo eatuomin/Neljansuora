@@ -11,4 +11,24 @@ package Neljansuora;
  */
 public class Pelilauta {
     
+    //Laudan koon määrittely
+    public static final int RIVIT = 6;
+    public static final int SARAKKEET = 7;
+    
+    
+    public Pelilauta() {
+        
+    }
+    
+    public void uusiPeli() {
+        
+    }
+    
+    public boolean onkoTasuri() {
+        
+    }
+    
+    public boolean kumpiVoitti() {
+        
+    }
 }
